@@ -1,1 +1,1 @@
-# instrumentacion_electronica-PythonArduinoSerial_2
+# Instrumentación Electronica - Python-Arduino Comunicación Serial 2: Lecturas continuas
